@@ -17,7 +17,9 @@ CVPR 2018 </br>
 
 * [Real Time Eye Gaze Tracking with 3D Deformable Eye-Face Model.](http://homepages.rpi.edu/~wangk10/papers/wang2017_webcam.pdf) </br>
 Kang Wang and Qiang Ji. </br>
-ICCV 2017
+ICCV 2017 </br>
+One word summary: Extend the traditional eye model to eye-face model.
+
 
 ## Databases
 
