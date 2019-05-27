@@ -3,7 +3,9 @@ This is a summary of the papers and databases for gaze estimation. I will keep u
 
 ## Papers
 
-### [Neural-inspired Eye Tracking with Eye Movement Dynamics](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)
+1. [Neural-inspired Eye Tracking with Eye Movement Dynamics](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf) 
+Kang Wang, Hui Su and Qiang Ji
+CVPR 2019
 
 ## Databases
 
