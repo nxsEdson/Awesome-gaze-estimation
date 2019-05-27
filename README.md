@@ -22,4 +22,4 @@ ICCV 2017
 ## Databases
 
 ## Famous groups for gaze estimaton
-----
+* [Kang Wang](http://homepages.rpi.edu/~wangk10/), RPI, supervised by Prof. Qiang Ji.
