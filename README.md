@@ -11,6 +11,14 @@ CVPR 2019
 Kang Wang, Hui Su and Qiang Ji </br>
 CVPR 2019
 
+* [Deep Pictorial Gaze Estimation.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.pdf) </br>
+Seonwook Park, Adrian Spurr, Otmar Hilliges </br>
+ECCV 2018
+
+* [Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf) </br>
+Yihua Cheng, Feng Lu, Xucong Zhang </br>
+ECCV 2018
+
 * [A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation.](http://homepages.rpi.edu/~wangk10/papers/wang2018_hgm.pdf) </br>
 Kang Wang, Rui Zhao, Hui Su and Qiang Ji. </br>
 CVPR 2018 </br>
@@ -18,10 +26,12 @@ CVPR 2018 </br>
 * [Real Time Eye Gaze Tracking with 3D Deformable Eye-Face Model.](http://homepages.rpi.edu/~wangk10/papers/wang2017_webcam.pdf) </br>
 Kang Wang and Qiang Ji. </br>
 ICCV 2017 </br>
-One word summary: Extend the traditional eye model to eye-face model.
 
 
 ## Databases
 
+* MPIIGaze
+
 ## Famous groups for gaze estimaton
 * [Kang Wang](http://homepages.rpi.edu/~wangk10/), RPI, supervised by Prof. Qiang Ji.
+* [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/),
