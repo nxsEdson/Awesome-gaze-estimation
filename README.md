@@ -13,13 +13,11 @@ CVPR 2019
 
 * [A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation.](http://homepages.rpi.edu/~wangk10/papers/wang2018_hgm.pdf) </br>
 Kang Wang, Rui Zhao, Hui Su and Qiang Ji. </br>
-CVPR 2018 
+CVPR 2018 </br>
 
-Spotlight
-
-* [Neural-inspired Eye Tracking with Eye Movement Dynamics.](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf) </br>
-Kang Wang, Hui Su and Qiang Ji </br>
-CVPR 2019
+* [Real Time Eye Gaze Tracking with 3D Deformable Eye-Face Model.](http://homepages.rpi.edu/~wangk10/papers/wang2017_webcam.pdf) </br>
+Kang Wang and Qiang Ji. </br>
+ICCV 2017
 
 ## Databases
 
