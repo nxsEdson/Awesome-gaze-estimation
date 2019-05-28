@@ -7,6 +7,10 @@ This is a summary of the papers and databases for gaze estimation. I will keep u
 
 ### Appearance-based
 
+[Eye Tracking for Everyone](https://people.csail.mit.edu/khosla/papers/cvpr2016_Khosla.pdf) </br>
+Kyle Krafka, Aditya Khosla, Petr Kellnhofer and Harini Kannan. </br>
+CVPR 2016
+
 * [Neural-inspired Eye Tracking with Eye Movement Dynamics.](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf) </br>
 Kang Wang, Hui Su and Qiang Ji </br>
 CVPR 2019
