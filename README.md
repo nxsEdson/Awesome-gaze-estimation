@@ -47,5 +47,5 @@ CVPR 2019
 * [GazeCapture](http://gazecapture.csail.mit.edu/)
 
 ## Famous groups for gaze estimaton
-* [Kang Wang](http://homepages.rpi.edu/~wangk10/), RPI, supervised by Prof. Qiang Ji.
-* [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/),
+* [Kang Wang](http://homepages.rpi.edu/~wangk10/).
+* [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/).
