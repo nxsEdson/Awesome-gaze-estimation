@@ -7,7 +7,7 @@ This is a summary of the papers and databases for gaze estimation. I will keep u
 
 ### Appearance-based
 
-[Eye Tracking for Everyone](https://people.csail.mit.edu/khosla/papers/cvpr2016_Khosla.pdf) </br>
+* [Eye Tracking for Everyone](https://people.csail.mit.edu/khosla/papers/cvpr2016_Khosla.pdf) </br>
 Kyle Krafka, Aditya Khosla, Petr Kellnhofer and Harini Kannan. </br>
 CVPR 2016
 
