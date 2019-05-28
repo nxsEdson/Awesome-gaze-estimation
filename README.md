@@ -7,7 +7,11 @@ This is a summary of the papers and databases for gaze estimation. I will keep u
 
 ### Appearance-based
 
-* [Eye Tracking for Everyone](https://people.csail.mit.edu/khosla/papers/cvpr2016_Khosla.pdf) </br>
+* [Appearance-based Gaze Estimation in the Wild.](https://www.d2.mpi-inf.mpg.de/sites/default/files/zhang_CVPR15.pdf) </br>
+Xucong Zhang, Yusuke Sugano, Mario Fritz and Andreas Bulling. </br>
+CVPR 2015
+
+* [Eye Tracking for Everyone.](https://people.csail.mit.edu/khosla/papers/cvpr2016_Khosla.pdf) </br>
 Kyle Krafka, Aditya Khosla, Petr Kellnhofer and Harini Kannan. </br>
 CVPR 2016
 
@@ -38,8 +42,9 @@ ICCV 2017 </br>
 
 ## Databases
 
-* MPIIGaze
+* [MPIIGaze](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild/)
 * [RT-GENE](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf) 
+* [GazeCapture](http://gazecapture.csail.mit.edu/)
 
 ## Famous groups for gaze estimaton
 * [Kang Wang](http://homepages.rpi.edu/~wangk10/), RPI, supervised by Prof. Qiang Ji.
