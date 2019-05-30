@@ -49,3 +49,4 @@ CVPR 2019
 ## Famous groups for gaze estimaton
 * [Kang Wang](http://homepages.rpi.edu/~wangk10/).
 * [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/).
+* [Gang Liu](https://sites.google.com/site/gangliu5603/home)
