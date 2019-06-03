@@ -66,9 +66,11 @@ CVPR 2019
 * [GazeCapture](http://gazecapture.csail.mit.edu/)
 
 ## Famous groups for gaze estimaton
-* [Kang Wang](http://homepages.rpi.edu/~wangk10/).
-* [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/).
-* [Gang Liu](https://sites.google.com/site/gangliu5603/home)
+* [Qiang Ji](https://www.ecse.rpi.edu/~qji/)
+* [Kang Wang](http://homepages.rpi.edu/~wangk10/)
+* [Andreas Bulling](https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/)
+* [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/)
 * [Yusuke Sugano](https://www.yusuke-sugano.info/)
 * [Erroll Wood](http://www.errollw.com/)
 * [Seonwook Park](https://ait.ethz.ch/people/spark/)
+* [Gang Liu](https://sites.google.com/site/gangliu5603/home)
