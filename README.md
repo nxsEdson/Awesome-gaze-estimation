@@ -71,3 +71,4 @@ CVPR 2019
 * [Gang Liu](https://sites.google.com/site/gangliu5603/home)
 * [Yusuke Sugano](https://www.yusuke-sugano.info/)
 * [Erroll Wood](http://www.errollw.com/)
+* [Seonwook Park](https://ait.ethz.ch/people/spark/)
