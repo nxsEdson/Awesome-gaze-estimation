@@ -39,6 +39,13 @@ CVPR 2019
 Kang Wang, Hui Su and Qiang Ji </br>
 CVPR 2019
 
+* [A Differential Approach for Gaze Estimation with Calibration](https://pdfs.semanticscholar.org/192e/b550675b0f9cc69389ef2ec27efa72851253.pdf)</br>
+Gang Liu, Yu Yu, Kenneth A. Funes-Mora, Jean-Marc Odobez</br>
+BMVC 2018
+
+* [Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis](https://arxiv.org/abs/1904.10638)</br>
+Yu Yu, Gang Liu, Jean-Marc Odobez</br>
+BMVC 2018
 
 ## Databases
 
