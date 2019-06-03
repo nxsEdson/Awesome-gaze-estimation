@@ -45,7 +45,7 @@ BMVC 2018
 
 * [Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis](https://arxiv.org/abs/1904.10638)</br>
 Yu Yu, Gang Liu, Jean-Marc Odobez</br>
-BMVC 2018
+CVPR 2019
 
 ## Databases
 
