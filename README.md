@@ -5,6 +5,14 @@ This is a summary of the papers and databases for gaze estimation. I will keep u
 
 ### Model-based 
 
+* [Rendering of Eyes for Eye-Shape Registration and Gaze Estimation.](http://www.errollw.com/publications/iccv2015.pdf) </br>
+E. Wood, T. Baltrusaitis, X. Zhang, Y. Sugano, P. Robinson, and A. Bulling </br>
+ICCV 2015
+
+* [A 3D morphable eye region model for gaze estimation.](http://www.errollw.com/publications/eccv2016.pdf) </br>
+E. Wood, T. Baltrusaitis, L. P. Morency, P. Robinson, and A. Bulling </br>
+ECCV 2016
+
 * [Real Time Eye Gaze Tracking with 3D Deformable Eye-Face Model.](http://homepages.rpi.edu/~wangk10/papers/wang2017_webcam.pdf) </br>
 Kang Wang and Qiang Ji. </br>
 ICCV 2017 </br>
@@ -18,6 +26,10 @@ Seonwook Park, Adrian Spurr, Otmar Hilliges </br>
 ECCV 2018
 
 ### Appearance-based
+
+* [Learning-by-synthesis for appearance-based 3d gaze estimation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sugano_Learning-by-Synthesis_for_Appearance-based_2014_CVPR_paper.pdf) </br>
+Y Sugano, Y Matsushita, Y Sato </br>
+CVPR 2014
 
 * [Appearance-based Gaze Estimation in the Wild.](https://www.d2.mpi-inf.mpg.de/sites/default/files/zhang_CVPR15.pdf) </br>
 Xucong Zhang, Yusuke Sugano, Mario Fritz and Andreas Bulling. </br>
@@ -57,3 +69,5 @@ CVPR 2019
 * [Kang Wang](http://homepages.rpi.edu/~wangk10/).
 * [Xucong Zhang](https://perceptual.mpi-inf.mpg.de/people/xucong-zhang/).
 * [Gang Liu](https://sites.google.com/site/gangliu5603/home)
+* [Yusuke Sugano](https://www.yusuke-sugano.info/)
+* [Erroll Wood](http://www.errollw.com/)
