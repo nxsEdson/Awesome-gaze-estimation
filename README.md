@@ -65,7 +65,7 @@ CVPR 2019
 * [RT-GENE](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf) 
 * [GazeCapture](http://gazecapture.csail.mit.edu/)
 
-## Famous groups for gaze estimaton
+## Famous researchers for gaze estimaton
 * [Qiang Ji](https://www.ecse.rpi.edu/~qji/)
 * [Kang Wang](http://homepages.rpi.edu/~wangk10/)
 * [Andreas Bulling](https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/)
