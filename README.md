@@ -69,8 +69,16 @@ CVPR 2014
 Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, Song-Chun Zhu </br>
 ICCV 2019
 
+* [Following Gaze in Video](http://openaccess.thecvf.com/content_ICCV_2017/papers/Recasens_Following_Gaze_in_ICCV_2017_paper.pdf) </br>
+Adria Recasens, Carl Vondrick, Aditya Khosla, Antonio Torralba </br>
+ICCV 2017
+
+* [Multiple-gaze geometry: Inferring novel 3D locations from gazes observed in monocular video](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ernesto_Brau_Stereo_gaze_Inferring_ECCV_2018_paper.pdf) </br>
+Ernesto Brau, Jinyan Guan, Tanya Jeffries, Kobus Barnard </br>
+ECCV 2018
+
 ### Gaze redirection
-* [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks](https://arxiv.org/abs/1903.12530)
+* [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks](https://arxiv.org/abs/1903.12530) </br>
 Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges </br>
 ICCV 2019
 
