@@ -77,6 +77,10 @@ ICCV 2017
 Ernesto Brau, Jinyan Guan, Tanya Jeffries, Kobus Barnard </br>
 ECCV 2018
 
+* [Where are they looking?](http://gazefollow.csail.mit.edu/) </br>
+A. Recasens, A. Khosla, C. Vondrick, and A. Torralba. </br>
+NeurIPS 2015
+
 ### Gaze redirection
 * [Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks](https://arxiv.org/abs/1903.12530) </br>
 Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges </br>
